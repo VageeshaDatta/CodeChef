@@ -1,3 +1,3 @@
 #  CodeChef
 
-## This repository contains solved problems from CodeChef
+ This repository contains solved problems from CodeChef
